@@ -1,5 +1,5 @@
 ![gitPhoto](https://github.com/Nadil14/Nadil14/assets/116505519/2226bce3-504d-4006-890c-fa106c681393)
-<h1 align="center">Hi 👋, I'm Nadil Liyanage</h1>
+<h1 align="center">Hi 👋, I'm Heshan Chamika</h1>
 <h2 align="center">Frontend Developer | Tech Enthusiast | Open Source Contributor</h2>
 
 ![221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c](https://github.com/Nadil14/Nadil14/assets/116505519/58fa1fbe-3ff0-41b8-9fd6-01bdb413d2f8)
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **nadilsenrukabk@gmail.com**
+- 📫 How to reach me **heshanchamika100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
